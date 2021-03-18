@@ -1,0 +1,30 @@
+.district{
+    background-color: #e7dede;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    border-radius: 10pt;
+}
+.districtelement{
+    margin-left: 5px;
+    margin-right: 5px;   
+}
+
+.districtSelectButton{
+
+    background-color:#e093a6;
+    border-radius: 5pt;
+    font-weight: 520;
+}
+
+h2{
+    text-align: center;
+    font-size: 16;
+    font-weight: 550;
+}
+
+
+
+
+
+
+
